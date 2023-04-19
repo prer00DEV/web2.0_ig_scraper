@@ -1,31 +1,277 @@
 Locos
-- mezinarodni turnaj
-- mezinarodni pohar
-- mezinarodni turnaj
-- mezinarodni turnaj
-- soustredeni
-- trenink
-- soustredeni mezinarodni
-- extraliga vysledek zapasu
-- extraliga pozvanka
-- team promo (ukazka nasi obrany blabla)
-- player promo
-- extraliga vysledek zapasu
-- extraliga pozvanka
-- new players
-- extraliga vysledek zapasu
-- extraliga vysledek zapasu
-- turnaj
-- team promo
-- mezinarodni vysledek zapasu
-- player promo
-- extraliga pozvanka
-- mezinarodni turnaj
-- extraliga vysledek
-- extraliga pozvanka
-- extraliga vysledek
-- extraliga vysledek
+- events
+- events
+- events
+- events
+- events
+- events
+- events
+- communication 
+- invitations
+- communication (ukazka nasi obrany blabla)
+- promotions
+- communication 
+- invitations
+- promotions
+- communication 
+- communication 
+- events
+- communication
+- events
+- promotions
+- invitations
+- events
+- communication
+- invitations
+- communication
+- communication
 - tymove promo
-- player promo
-- turnaj
+- promotions
+- events
 - tymove promo
+Beavers
+- promotions
+- events
+- promotions
+- promotions
+- events
+- events
+- events
+- events
+- communication
+- promotions
+- events
+- invitations
+- events
+- events
+- events
+- communication
+- communication
+- communication
+- events
+- events
+- events
+- events
+- events
+- events
+- communication
+- communication
+- communication
+- communication
+- communication
+Painbusters
+- events / communication
+- communication
+- events
+- promotions
+- communication (komunikace s fanousky)
+- events
+- events
+- events
+- events
+- events
+- invitations
+- communication
+- events
+- communication
+- communication
+- communication
+- communication / sponsorship
+- invitations
+- communication
+- invitations
+- invitations
+- communication
+- invitations
+- invitations
+- events
+- events
+- events
+- events
+- events
+- communication
+Spectrum
+- communication
+- invitations
+- events
+- promotions
+- events pozvanka
+- events
+- communication
+- events
+- communication
+- communication
+- promotions
+- events
+- events
+- communication
+- events
+- events
+- events
+- communication
+- communication
+- communication
+- invitations
+- communication
+- events
+- events
+- promotions
+- communication
+- communication
+- invitations
+- communication
+- events
+Zraloci
+- events
+- invitations
+- events
+- communication
+- communication
+- communication
+- communication
+- communication
+- events
+- communication
+- events
+- events
+- communication
+- communication
+- team communictaion
+- events
+- events
+- communication
+- communication
+- promotions
+- invitations
+- promotions
+- communication
+- events
+- invitations
+- communication
+- communication
+- events
+- promotions
+- events
+Joudrs
+- events
+- communication
+- events
+- events
+- communication
+- communication
+- events
+- communication
+- events
+- events
+- events
+- communication
+- events
+- communication
+- communication
+- events
+- events
+- invitations
+- communication
+- communication
+- invitations
+- events
+- events
+- events
+- communication
+- invitations
+- events
+- promotions
+- events
+Hippos
+- invitations
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- promotions
+- communication
+- promotions
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- communication
+- invitations
+- communication
+- communication
+- events
+- communication
+- communication
+Snails
+- communication
+- invitations
+- invitations
+- invitations
+- invitations
+- communication
+- events
+- communication
+- communication
+- communication
+- communication
+- invitations
+- communication
+- events
+- invitations
+- communication
+- communication
+- promotions
+- events
+- events
+- communication
+- events
+- communication
+- events
+- communication
+- communication
+- communication
+- communication
+- communication
+- events
+Tempo
+- invitations
+- communication
+- communication
+- invitations
+- communication
+- invitations
+- communication
+- communication
+- promotions
+- invitations
+- invitations
+- invitations
+- promotions
+- events
+- communication
+- communication
+- events
+- events
+- invitations
+- communication
+- promotions
+- promotions
+- events
+- promotions
+- communication
+- events
+- communication
+- communication
+- communication
+- promotions
